@@ -9,9 +9,6 @@
     "mongodb": "^3.2.6"
   },
   "devDependencies": {},
-  "scripts": {
-    "test": "node rest-main.js db=localhost:27017"
-  },
   "author": "Caio Campos",
   "license": "MIT"
 }
