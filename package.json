@@ -1,0 +1,16 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "description": "Servidor node simples",
+  "main": "rest-main.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.2.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Caio Campos",
+  "license": "MIT"
+}
