@@ -9,7 +9,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "npm test"
+    "test": "node rest-main.js db=localhost:27017"
   },
   "author": "Caio Campos",
   "license": "MIT"
