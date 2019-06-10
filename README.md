@@ -13,7 +13,7 @@ Para executar o projeto é necessário o Nodejs instalado e configurado, siga as
 
 https://medium.com/@adsonrocha/como-instalar-o-node-js-no-windows-10-cf2bd460b8a8
 
-Com o Nodejs configurado é possível executar conforme o exemplo:
+Com o Nodejs configurado basta executar na pasta do projeto um comando conforme o exemplo:
 
 > node rest-main.js dburi=mongodb://localhost:27017
 
