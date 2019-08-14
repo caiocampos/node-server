@@ -6,7 +6,7 @@
   "private": true,
   "dependencies": {
     "express": "^4.17.1",
-    "mongodb": "^3.2.6"
+    "mongodb": "^3.3.0"
   },
   "devDependencies": {},
   "author": "Caio Campos",
