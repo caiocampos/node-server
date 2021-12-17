@@ -5,7 +5,7 @@
   "main": "rest-main.js",
   "private": true,
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.2",
     "mongodb": "^4.2.2"
   },
   "devDependencies": {},
